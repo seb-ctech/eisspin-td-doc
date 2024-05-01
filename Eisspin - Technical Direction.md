@@ -77,13 +77,9 @@ What started as one simple feature, developed into a massive feature creep. The 
 This experience not only showed me that, and how, my existing skillset, could be applied to a relatively unknown area to me: Film Production, but also the potential and limitations of doing so. I learned the ability and willingness to delegate tasks to people with a different skill set, so that I could focus on my personal strengths: keeping the big picture in mind and enabling a streamlined workflow through informed architectural decisions and debugging and custom algorithms. This made me an overall better team player and helped me develop an intuition to focus my passion to help other people perform better. It showed me how researching existing tools and rather focusing development effort on bridging the missing gaps, extending functionality, can increase productivity and leverage existing tool ecosystems to get quick and very impressive results. Yet a lot of adjustment and refinement is needed to match the expectations of all involved parties. 
 One of the biggest challenges has been the wish for an art directed volumetric cloud system.
 This was during a time where Open VDB was still in its Beta phase, and the unreal support was niche and only available at a late stage of development. Pairing this with the existing screen space driven cloud system of Unreal meant, that we had to swap out one layer for another and to stitch the final shot in post-production.
-<<<<<<< HEAD
-In hindsight I found out about existing procedural city tools implemented in Applications more suitable for that kind of job: Mainly Houdini and Blender. Teaching a valuable lesson of idiomaticity, a concept related to linguistic, which can be applied to development, stipulating that there is certain systems which are better suited to express certain ideas (expressions) then others. Strengthening also my understanding between the correlation of software architecture, tool development and resulting workflow.
-=======
 In hindsight I found out about existing procedural city tools implemented in Applications more suitable for that kind of job: Mainly Houdini and Blender. Teaching a valuable lesson of idiomaticity, a concept related to linguistic, which can be applied to development, stipulating that there is certain systems which are better suited to express certain ideas (expressions) then others. Strengthening also my understanding between the correlation of software architecture, tool development and resulting workflow.
 
 ![](attachment/54435c3456c46d99f8bdbd6ab238b8b8.gif)
 
 
 ![](attachment/7d908600101886f6dce1314e40f39b75.gif)
->>>>>>> 66ceadedd477b524e6bb9abd994f393bc75b353f
