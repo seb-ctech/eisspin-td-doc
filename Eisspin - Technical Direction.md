@@ -33,7 +33,7 @@ In the end we had a highly modular scene built using the concept of `One File pe
 ![](attachment/ad2c6412856a13864c232bf93283d78b.jpg)
 
 
-![](attachment/74acd4ca84259a9d47f97995212e64ff.gif)
+![](./attachment/74acd4ca84259a9d47f97995212e64ff.gif)
 
 ![](attachment/aa11f37cd310ddcd0e3d51e023bebf9f.jpg)
 
