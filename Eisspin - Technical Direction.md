@@ -21,9 +21,8 @@ Finally great emphasis was placed on a dramatic weather, changing in mood inbetw
 
 ### Results
 
-![](attachment/ac53b3f3437ae294299cf00e6e6e10b4.gif)
+![](attachment/ezgif-4-d309e65b57.gif)
 ![](attachment/7386801ebbc4c98e6a63770d4f47e553.jpg)
-![](attachment/99153a60fa13a09576370ed423a340a6.gif)
 
 The Project was integrated in a robust infrastructure. Main corner piece was the version control system Perforce hosted on a remote server for access over the internet and a decentralized workflow. This worked in conjunction with a local network share interconnecting three pc which were used to store big external assets not subject to versioning like those from the Mega Scan library.
 
@@ -31,9 +30,6 @@ In the end we had a highly modular scene built using the concept of `One File pe
 
 ![](attachment/54e7216d84b972b3acf360b846b1a9c6.jpg)
 ![](attachment/ad2c6412856a13864c232bf93283d78b.jpg)
-
-
-![](attachment/74acd4ca84259a9d47f97995212e64ff.gif)
 
 ![](attachment/aa11f37cd310ddcd0e3d51e023bebf9f.jpg)
 
@@ -57,9 +53,9 @@ A custom spline camera system has been developed to enable a dynamic roll system
 This would also feature the ability to manually overwrite the roll setting.
 
 
-![](attachment/1cabd9623ca050835eb61c34795c742e.gif)
+![](attachment/ezgif-4-a98823bdc9.gif)
 
-![](attachment/bfe2c04b28505866c2e00d6a82de2377.gif)
+![](attachment/ezgif-1-86854f8565.gif)
 
 
 The spline methodology has been reused in three procedural assets which where crucial for the city aesthetic and level of detail:
@@ -82,8 +78,3 @@ This experience not only showed me that, and how, my existing skillset, could be
 One of the biggest challenges has been the wish for an art directed volumetric cloud system.
 This was during a time where Open VDB was still in its Beta phase, and the unreal support was niche and only available at a late stage of development. Pairing this with the existing screen space driven cloud system of Unreal meant, that we had to swap out one layer for another and to stitch the final shot in post-production.
 In hindsight I found out about existing procedural city tools implemented in Applications more suitable for that kind of job: Mainly Houdini and Blender. Teaching a valuable lesson of idiomaticity, a concept related to linguistic, which can be applied to development, stipulating that there is certain systems which are better suited to express certain ideas (expressions) then others. Strengthening also my understanding between the correlation of software architecture, tool development and resulting workflow.
-
-![](attachment/54435c3456c46d99f8bdbd6ab238b8b8.gif)
-
-
-![](attachment/7d908600101886f6dce1314e40f39b75.gif)
