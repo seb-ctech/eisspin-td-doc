@@ -64,6 +64,8 @@ The spline methodology has been reused in three procedural assets which where cr
 2. A street asset could be used, not only to layout streets of different materials inbetween the buildings, but automatically place lamps, benches, barrels and other props on the side in irregular intervals facing the street. All light sources placed this way where of course part of the light management abstraction for the holistic light manager.
 3. An aqueduct with a half pipe shaped tolopology and feets which would automatically extend to join to the floor. Inside the pipe was a procedurally generated fluid simulation using fluid ninja applied as material to convey the illusion of running toxic goo throughout the city 
 
+![](attachement/UnrealEditor_wHf7XHd2pS.jpg)
+
 The castle was a manually crafted high resolution model composed of hundreds of mesh components using UE 5.0 new Nanite Mesh system to dynamically adjust LODs to boost the performance.
 
 Finally each shot was finished with a unique minutely hand crafted weather setting featuring hightdriven precipication fall (snow vs rain), thunderstorm with art directed position and moment of lighting. For this UDS has been dissected and extended to enable reproducible randomness and scripted triggering of lightings on the sequencer.
